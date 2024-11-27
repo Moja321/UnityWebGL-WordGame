@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "GameTest1 Project",
+"productVersion": "0.1",
+"dataUrl": "WordGameDec2024.data.unityweb",
+"wasmCodeUrl": "WordGameDec2024.wasm.code.unityweb",
+"wasmFrameworkUrl": "WordGameDec2024.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.14f1"
+}
